@@ -30,3 +30,6 @@ Các bước
   + Xác định các component cần chỉnh sửa, compnent cần tạo biến thể và viết code vào các file riêng.
   + Tạo 1 file chung có include bootstrap và các file custom
   + Tạo có chứa các component hoặc file mẫu trên mạng sau đó chèn style sau khi biên dịch của mình vào để xem kết quả.
+
+  ![PC](pc.png)
+  ![Mobile](mobile.png)
